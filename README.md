@@ -46,7 +46,7 @@ Aku sedang belajar web development dari dasar. Untuk sekarang, aku masih sering 
 - <a href="https://zeanowhere.netlify.app/" target="_blank" rel="noopener noreferrer"><strong>Zeanowhere</strong></a> — salah satu website yang aku buat untuk latihan membangun dan mempublikasikan project web
 - <a href="https://zeanalbum.netlify.app/" target="_blank" rel="noopener noreferrer"><strong>Zean Album</strong></a> — project web bertema album
 - <a href="https://songfess-app.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Songfess App</strong></a> — aplikasi web untuk berbagi pesan atau songfess
-- **Mini Calculator** — kalkulator sederhana untuk latihan logika dan interaksi JavaScript
+- <a href="https://zeanminicalculator.netlify.app/" target="_blank" rel="noopener noreferrer"><strong>Zean Mini Calculator</strong></a> — kalkulator sederhana untuk latihan logika dan interaksi JavaScript
 
 > Project-project ini masih terus bisa dikembangkan. Yang penting, satu per satu sudah berhasil dibuat dan dipublikasikan.
 
