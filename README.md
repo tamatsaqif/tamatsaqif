@@ -70,7 +70,7 @@ Belum punya prestasi besar. Untuk sekarang, bisa memahami satu konsep baru dan m
 
 Masih belajar, masih sering error, dan masih banyak hal yang ingin dicoba. Kalau kamu juga sedang belajar coding, salam kenal!
 
-<a href="https://github.com/zean" target="_blank" rel="noopener noreferrer">GitHub</a>
+<a href="https://github.com/tamatsaqif" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ---
 
