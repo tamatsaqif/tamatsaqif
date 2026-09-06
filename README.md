@@ -43,9 +43,9 @@ Aku sedang belajar web development dari dasar. Untuk sekarang, aku masih sering 
 
 ## 🚀 selected projects
 
-- **[Zeanowhere](https://zeanowhere.netlify.app/)** — salah satu website yang aku buat untuk latihan membangun dan mempublikasikan project web
-- **[Zean Album](https://zeanalbum.netlify.app/)** — project web bertema album
-- **[Songfess App](https://songfess-app.vercel.app/)** — aplikasi web untuk berbagi pesan atau songfess
+- <a href="https://zeanowhere.netlify.app/" target="_blank" rel="noopener noreferrer"><strong>Zeanowhere</strong></a> — salah satu website yang aku buat untuk latihan membangun dan mempublikasikan project web
+- <a href="https://zeanalbum.netlify.app/" target="_blank" rel="noopener noreferrer"><strong>Zean Album</strong></a> — project web bertema album
+- <a href="https://songfess-app.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Songfess App</strong></a> — aplikasi web untuk berbagi pesan atau songfess
 - **Mini Calculator** — kalkulator sederhana untuk latihan logika dan interaksi JavaScript
 
 > Project-project ini masih terus bisa dikembangkan. Yang penting, satu per satu sudah berhasil dibuat dan dipublikasikan.
@@ -70,7 +70,7 @@ Belum punya prestasi besar. Untuk sekarang, bisa memahami satu konsep baru dan m
 
 Masih belajar, masih sering error, dan masih banyak hal yang ingin dicoba. Kalau kamu juga sedang belajar coding, salam kenal!
 
-[GitHub](https://github.com/zean)
+<a href="https://github.com/zean" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ---
 
